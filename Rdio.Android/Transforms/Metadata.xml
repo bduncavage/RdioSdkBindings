@@ -1,0 +1,5 @@
+<metadata>
+    <attr path="/api/package[@name='com.rdio.android.api']" name="managedName">Rdio.Android.Sdk</attr>
+    <attr path="/api/package[@name='com.rdio.android.api.services']" name="managedName">Rdio.Android.Sdk.Services</attr>
+    <attr path="/api/package[@name='com.rdio.android.api']/class[@name='Rdio']" name="managedName">RdioAPI</attr>
+</metadata>
