@@ -51,6 +51,6 @@ Global
 		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = RdioSdk.iOS\RdioSdk.iOS.csproj
+		StartupItem = RdioiOSSample\RdioiOSSample.csproj
 	EndGlobalSection
 EndGlobal
