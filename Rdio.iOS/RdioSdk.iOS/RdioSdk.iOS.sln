@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdioSdk.iOS", "RdioSdk.iOS\RdioSdk.iOS.csproj", "{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RdioiOSSample", "RdioiOSSample\RdioiOSSample.csproj", "{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Release|iPhone.Build.0 = Release|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{63C4C16A-8952-4F57-9DAA-1ED94FB44DDE}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Release|iPhone.Build.0 = Release|iPhone
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F7CE2D65-0B9A-46F9-B5BA-82246CA21C8A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RdioiOSSample\RdioiOSSample.csproj
+	EndGlobalSection
+EndGlobal
